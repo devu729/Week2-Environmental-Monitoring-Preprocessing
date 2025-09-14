@@ -49,8 +49,8 @@ This week focuses on running the PM2.5 prediction FastAPI application. The app s
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/devu729/Week2-Environmental-Monitoring-Preprocessing.git
-cd Week2-Environmental-Monitoring-Preprocessing
+git clone https://github.com/devu729/Week3-Environmental-Monitoring-Preprocessing.git
+cd Week3-Environmental-Monitoring-Preprocessing
 ```
 
 ### 2. Set up a Python environment:
