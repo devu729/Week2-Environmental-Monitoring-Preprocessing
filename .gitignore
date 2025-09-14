@@ -1,0 +1,37 @@
+# Python cache
+_pycache_/
+*.py[cod]
+*$py.class
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Plots or outputs
+plots/
+*.png
+*.jpg
+*.jpeg
+*.svg
+
+# Data files
+PRSA_data_2010.1.1-2014.12.31.csv
+beijing_pm25_preprocess.csv
+
+# Model files
+pm25_model.pkl
